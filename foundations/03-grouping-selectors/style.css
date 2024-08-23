@@ -1,0 +1,14 @@
+.blackb,
+.yellowb{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.blackb{
+    background-color: purple;
+    color: white;
+}
+
+.yellowb{
+background-color: green;
+}
+
